@@ -6,9 +6,9 @@ id: 1
 label: NEWC
 longName: carbon fiber
 name: Carbon Fiber
-penaltyLength: 255
-penaltyLowerBound: 0
-price: 4112
+penaltyLength: 207
+penaltyLowerBound: 48
+price: 4441
 sprite:
   filename: cargoes/carbon-fiber.png
   left: 0
