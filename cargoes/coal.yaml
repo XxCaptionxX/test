@@ -1,0 +1,17 @@
+abbreviation: CA
+available: true
+classes: 32
+colour: 2
+id: 0
+label: NEWC
+longName: coal
+name: Coal
+penaltyLength: 205
+penaltyLowerBound: 50
+price: 4112
+sprite:
+  filename: cargoes/coal.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
